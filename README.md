@@ -1,1 +1,2 @@
-# anaconda silent install CentOS7
+# anaconda 
+silent install CentOS7 with anaconda script
